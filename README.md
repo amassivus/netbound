@@ -1,6 +1,6 @@
 # NetBound
 
-AI Based network management
+Ai Based network management
 
 # License
 
