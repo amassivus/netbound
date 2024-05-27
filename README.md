@@ -1,6 +1,6 @@
 # NetBound
 
-Ai Based network management
+Ai Based network management which is for network monitoring and avoiding malicious traffic.
 
 # License
 
