@@ -2,19 +2,27 @@
 
 Ai Based network management which is for network monitoring and avoiding malicious traffic.
 
+[NetBounder](https://github.com/amassivus/netbounder) is the command line interface for the framework.
+
 # License
 
-Copyright (C) 2024 QB Networks
+Copyright (C) 2024-2025 QB Networks
 
-Copyright (C) 2024 Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
-Copyright (C) 2024 amassivus and contributors
+Copyright (C) 2017-2025 Procyberian and contributors
 
-Copyright (C) 2024 procyberian and contributors
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
 
-Copyright (C) 2024 Mass Collaboration Labs and contributors
+Copyright (C) 2017-2025 amassivus and contributors
 
-Copyright (C) 2024 illicius and contributors
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
+Copyright (C) 2024-2025 illicius and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
